@@ -1,0 +1,4 @@
+--- Transaksi Baru ---
+Nasi Goreng - Rp25000.0
+Total: Rp25000.0
+
